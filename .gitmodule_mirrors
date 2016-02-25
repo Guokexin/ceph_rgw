@@ -1,0 +1,10 @@
+# Over-ride submodule URLs to use Local mirror
+# Only used by autobuild-ceph.
+ceph-object-corpus http://gitlab.xsky.com/infrastructure/ceph-object-corpus.git
+src/civetweb http://gitlab.xsky.com/infrastructure/civetweb.git
+src/leveldb http://gitlab.xsky.com/infrastructure/leveldb.git
+src/erasure-code/jerasure/jerasure http://gitlab.xsky.com/infrastructure/jerasure.git
+src/erasure-code/jerasure/gf-complete http://gitlab.xsky.com/infrastructure/gf-complete.git
+src/rocksdb http://gitlab.xsky.com/infrastructure/rocksdb.git
+ceph-erasure-code-corpus http://gitlab.xsky.com/infrastructure/ceph-erasure-code-corpus.git
+src/libs3 http://gitlab.xsky.com/infrastructure/libs3.git
